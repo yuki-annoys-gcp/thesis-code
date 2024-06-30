@@ -1,0 +1,973 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "label": "root",
+            "id": 120
+        },
+        {
+            "label": "aquatic mammals",
+            "id": 119
+        },
+        {
+            "label": "beaver",
+            "id": 118
+        },
+        {
+            "label": "dolphin",
+            "id": 117
+        },
+        {
+            "label": "otter",
+            "id": 116
+        },
+        {
+            "label": "seal",
+            "id": 115
+        },
+        {
+            "label": "whale",
+            "id": 114
+        },
+        {
+            "label": "fish",
+            "id": 113
+        },
+        {
+            "label": "aquarium_fish",
+            "id": 112
+        },
+        {
+            "label": "flatfish",
+            "id": 111
+        },
+        {
+            "label": "ray",
+            "id": 110
+        },
+        {
+            "label": "shark",
+            "id": 109
+        },
+        {
+            "label": "trout",
+            "id": 108
+        },
+        {
+            "label": "flowers",
+            "id": 107
+        },
+        {
+            "label": "orchid",
+            "id": 106
+        },
+        {
+            "label": "poppy",
+            "id": 105
+        },
+        {
+            "label": "rose",
+            "id": 104
+        },
+        {
+            "label": "sunflower",
+            "id": 103
+        },
+        {
+            "label": "tulip",
+            "id": 102
+        },
+        {
+            "label": "food containers",
+            "id": 101
+        },
+        {
+            "label": "bottle",
+            "id": 100
+        },
+        {
+            "label": "bowl",
+            "id": 99
+        },
+        {
+            "label": "can",
+            "id": 98
+        },
+        {
+            "label": "cup",
+            "id": 97
+        },
+        {
+            "label": "plate",
+            "id": 96
+        },
+        {
+            "label": "fruit and vegetables",
+            "id": 95
+        },
+        {
+            "label": "apple",
+            "id": 94
+        },
+        {
+            "label": "mushroom",
+            "id": 93
+        },
+        {
+            "label": "orange",
+            "id": 92
+        },
+        {
+            "label": "pear",
+            "id": 91
+        },
+        {
+            "label": "sweet_pepper",
+            "id": 90
+        },
+        {
+            "label": "household electrical devices",
+            "id": 89
+        },
+        {
+            "label": "clock",
+            "id": 88
+        },
+        {
+            "label": "keyboard",
+            "id": 87
+        },
+        {
+            "label": "lamp",
+            "id": 86
+        },
+        {
+            "label": "telephone",
+            "id": 85
+        },
+        {
+            "label": "television",
+            "id": 84
+        },
+        {
+            "label": "household furniture",
+            "id": 83
+        },
+        {
+            "label": "bed",
+            "id": 82
+        },
+        {
+            "label": "chair",
+            "id": 81
+        },
+        {
+            "label": "couch",
+            "id": 80
+        },
+        {
+            "label": "table",
+            "id": 79
+        },
+        {
+            "label": "wardrobe",
+            "id": 78
+        },
+        {
+            "label": "insects",
+            "id": 77
+        },
+        {
+            "label": "bee",
+            "id": 76
+        },
+        {
+            "label": "beetle",
+            "id": 75
+        },
+        {
+            "label": "butterfly",
+            "id": 74
+        },
+        {
+            "label": "caterpillar",
+            "id": 73
+        },
+        {
+            "label": "cockroach",
+            "id": 72
+        },
+        {
+            "label": "large carnivores",
+            "id": 71
+        },
+        {
+            "label": "bear",
+            "id": 70
+        },
+        {
+            "label": "leopard",
+            "id": 69
+        },
+        {
+            "label": "lion",
+            "id": 68
+        },
+        {
+            "label": "tiger",
+            "id": 67
+        },
+        {
+            "label": "wolf",
+            "id": 66
+        },
+        {
+            "label": "large man-made outdoor things",
+            "id": 65
+        },
+        {
+            "label": "bridge",
+            "id": 64
+        },
+        {
+            "label": "castle",
+            "id": 63
+        },
+        {
+            "label": "house",
+            "id": 62
+        },
+        {
+            "label": "road",
+            "id": 61
+        },
+        {
+            "label": "skyscraper",
+            "id": 60
+        },
+        {
+            "label": "large natural outdoor scenes",
+            "id": 59
+        },
+        {
+            "label": "cloud",
+            "id": 58
+        },
+        {
+            "label": "forest",
+            "id": 57
+        },
+        {
+            "label": "mountain",
+            "id": 56
+        },
+        {
+            "label": "plain",
+            "id": 55
+        },
+        {
+            "label": "sea",
+            "id": 54
+        },
+        {
+            "label": "large omnivores and herbivores",
+            "id": 53
+        },
+        {
+            "label": "camel",
+            "id": 52
+        },
+        {
+            "label": "cattle",
+            "id": 51
+        },
+        {
+            "label": "chimpanzee",
+            "id": 50
+        },
+        {
+            "label": "elephant",
+            "id": 49
+        },
+        {
+            "label": "kangaroo",
+            "id": 48
+        },
+        {
+            "label": "medium-sized mammals",
+            "id": 47
+        },
+        {
+            "label": "fox",
+            "id": 46
+        },
+        {
+            "label": "porcupine",
+            "id": 45
+        },
+        {
+            "label": "possum",
+            "id": 44
+        },
+        {
+            "label": "raccoon",
+            "id": 43
+        },
+        {
+            "label": "skunk",
+            "id": 42
+        },
+        {
+            "label": "non-insect invertebrates",
+            "id": 41
+        },
+        {
+            "label": "crab",
+            "id": 40
+        },
+        {
+            "label": "lobster",
+            "id": 39
+        },
+        {
+            "label": "snail",
+            "id": 38
+        },
+        {
+            "label": "spider",
+            "id": 37
+        },
+        {
+            "label": "worm",
+            "id": 36
+        },
+        {
+            "label": "people",
+            "id": 35
+        },
+        {
+            "label": "baby",
+            "id": 34
+        },
+        {
+            "label": "boy",
+            "id": 33
+        },
+        {
+            "label": "girl",
+            "id": 32
+        },
+        {
+            "label": "man",
+            "id": 31
+        },
+        {
+            "label": "woman",
+            "id": 30
+        },
+        {
+            "label": "reptiles",
+            "id": 29
+        },
+        {
+            "label": "crocodile",
+            "id": 28
+        },
+        {
+            "label": "dinosaur",
+            "id": 27
+        },
+        {
+            "label": "lizard",
+            "id": 26
+        },
+        {
+            "label": "snake",
+            "id": 25
+        },
+        {
+            "label": "turtle",
+            "id": 24
+        },
+        {
+            "label": "small mammals",
+            "id": 23
+        },
+        {
+            "label": "hamster",
+            "id": 22
+        },
+        {
+            "label": "mouse",
+            "id": 21
+        },
+        {
+            "label": "rabbit",
+            "id": 20
+        },
+        {
+            "label": "shrew",
+            "id": 19
+        },
+        {
+            "label": "squirrel",
+            "id": 18
+        },
+        {
+            "label": "trees",
+            "id": 17
+        },
+        {
+            "label": "maple_tree",
+            "id": 16
+        },
+        {
+            "label": "oak_tree",
+            "id": 15
+        },
+        {
+            "label": "palm_tree",
+            "id": 14
+        },
+        {
+            "label": "pine_tree",
+            "id": 13
+        },
+        {
+            "label": "willow_tree",
+            "id": 12
+        },
+        {
+            "label": "vehicles 1",
+            "id": 11
+        },
+        {
+            "label": "bicycle",
+            "id": 10
+        },
+        {
+            "label": "bus",
+            "id": 9
+        },
+        {
+            "label": "motorcycle",
+            "id": 8
+        },
+        {
+            "label": "pickup_truck",
+            "id": 7
+        },
+        {
+            "label": "train",
+            "id": 6
+        },
+        {
+            "label": "vehicles 2",
+            "id": 5
+        },
+        {
+            "label": "lawn_mower",
+            "id": 4
+        },
+        {
+            "label": "rocket",
+            "id": 3
+        },
+        {
+            "label": "streetcar",
+            "id": 2
+        },
+        {
+            "label": "tank",
+            "id": 1
+        },
+        {
+            "label": "tractor",
+            "id": 0
+        }
+    ],
+    "links": [
+        {
+            "source": 120,
+            "target": 119
+        },
+        {
+            "source": 120,
+            "target": 113
+        },
+        {
+            "source": 120,
+            "target": 107
+        },
+        {
+            "source": 120,
+            "target": 101
+        },
+        {
+            "source": 120,
+            "target": 95
+        },
+        {
+            "source": 120,
+            "target": 89
+        },
+        {
+            "source": 120,
+            "target": 83
+        },
+        {
+            "source": 120,
+            "target": 77
+        },
+        {
+            "source": 120,
+            "target": 71
+        },
+        {
+            "source": 120,
+            "target": 65
+        },
+        {
+            "source": 120,
+            "target": 59
+        },
+        {
+            "source": 120,
+            "target": 53
+        },
+        {
+            "source": 120,
+            "target": 47
+        },
+        {
+            "source": 120,
+            "target": 41
+        },
+        {
+            "source": 120,
+            "target": 35
+        },
+        {
+            "source": 120,
+            "target": 29
+        },
+        {
+            "source": 120,
+            "target": 23
+        },
+        {
+            "source": 120,
+            "target": 17
+        },
+        {
+            "source": 120,
+            "target": 11
+        },
+        {
+            "source": 120,
+            "target": 5
+        },
+        {
+            "source": 119,
+            "target": 118
+        },
+        {
+            "source": 119,
+            "target": 117
+        },
+        {
+            "source": 119,
+            "target": 116
+        },
+        {
+            "source": 119,
+            "target": 115
+        },
+        {
+            "source": 119,
+            "target": 114
+        },
+        {
+            "source": 113,
+            "target": 112
+        },
+        {
+            "source": 113,
+            "target": 111
+        },
+        {
+            "source": 113,
+            "target": 110
+        },
+        {
+            "source": 113,
+            "target": 109
+        },
+        {
+            "source": 113,
+            "target": 108
+        },
+        {
+            "source": 107,
+            "target": 106
+        },
+        {
+            "source": 107,
+            "target": 105
+        },
+        {
+            "source": 107,
+            "target": 104
+        },
+        {
+            "source": 107,
+            "target": 103
+        },
+        {
+            "source": 107,
+            "target": 102
+        },
+        {
+            "source": 101,
+            "target": 100
+        },
+        {
+            "source": 101,
+            "target": 99
+        },
+        {
+            "source": 101,
+            "target": 98
+        },
+        {
+            "source": 101,
+            "target": 97
+        },
+        {
+            "source": 101,
+            "target": 96
+        },
+        {
+            "source": 95,
+            "target": 94
+        },
+        {
+            "source": 95,
+            "target": 93
+        },
+        {
+            "source": 95,
+            "target": 92
+        },
+        {
+            "source": 95,
+            "target": 91
+        },
+        {
+            "source": 95,
+            "target": 90
+        },
+        {
+            "source": 89,
+            "target": 88
+        },
+        {
+            "source": 89,
+            "target": 87
+        },
+        {
+            "source": 89,
+            "target": 86
+        },
+        {
+            "source": 89,
+            "target": 85
+        },
+        {
+            "source": 89,
+            "target": 84
+        },
+        {
+            "source": 83,
+            "target": 82
+        },
+        {
+            "source": 83,
+            "target": 81
+        },
+        {
+            "source": 83,
+            "target": 80
+        },
+        {
+            "source": 83,
+            "target": 79
+        },
+        {
+            "source": 83,
+            "target": 78
+        },
+        {
+            "source": 77,
+            "target": 76
+        },
+        {
+            "source": 77,
+            "target": 75
+        },
+        {
+            "source": 77,
+            "target": 74
+        },
+        {
+            "source": 77,
+            "target": 73
+        },
+        {
+            "source": 77,
+            "target": 72
+        },
+        {
+            "source": 71,
+            "target": 70
+        },
+        {
+            "source": 71,
+            "target": 69
+        },
+        {
+            "source": 71,
+            "target": 68
+        },
+        {
+            "source": 71,
+            "target": 67
+        },
+        {
+            "source": 71,
+            "target": 66
+        },
+        {
+            "source": 65,
+            "target": 64
+        },
+        {
+            "source": 65,
+            "target": 63
+        },
+        {
+            "source": 65,
+            "target": 62
+        },
+        {
+            "source": 65,
+            "target": 61
+        },
+        {
+            "source": 65,
+            "target": 60
+        },
+        {
+            "source": 59,
+            "target": 58
+        },
+        {
+            "source": 59,
+            "target": 57
+        },
+        {
+            "source": 59,
+            "target": 56
+        },
+        {
+            "source": 59,
+            "target": 55
+        },
+        {
+            "source": 59,
+            "target": 54
+        },
+        {
+            "source": 53,
+            "target": 52
+        },
+        {
+            "source": 53,
+            "target": 51
+        },
+        {
+            "source": 53,
+            "target": 50
+        },
+        {
+            "source": 53,
+            "target": 49
+        },
+        {
+            "source": 53,
+            "target": 48
+        },
+        {
+            "source": 47,
+            "target": 46
+        },
+        {
+            "source": 47,
+            "target": 45
+        },
+        {
+            "source": 47,
+            "target": 44
+        },
+        {
+            "source": 47,
+            "target": 43
+        },
+        {
+            "source": 47,
+            "target": 42
+        },
+        {
+            "source": 41,
+            "target": 40
+        },
+        {
+            "source": 41,
+            "target": 39
+        },
+        {
+            "source": 41,
+            "target": 38
+        },
+        {
+            "source": 41,
+            "target": 37
+        },
+        {
+            "source": 41,
+            "target": 36
+        },
+        {
+            "source": 35,
+            "target": 34
+        },
+        {
+            "source": 35,
+            "target": 33
+        },
+        {
+            "source": 35,
+            "target": 32
+        },
+        {
+            "source": 35,
+            "target": 31
+        },
+        {
+            "source": 35,
+            "target": 30
+        },
+        {
+            "source": 29,
+            "target": 28
+        },
+        {
+            "source": 29,
+            "target": 27
+        },
+        {
+            "source": 29,
+            "target": 26
+        },
+        {
+            "source": 29,
+            "target": 25
+        },
+        {
+            "source": 29,
+            "target": 24
+        },
+        {
+            "source": 23,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 21
+        },
+        {
+            "source": 23,
+            "target": 20
+        },
+        {
+            "source": 23,
+            "target": 19
+        },
+        {
+            "source": 23,
+            "target": 18
+        },
+        {
+            "source": 17,
+            "target": 16
+        },
+        {
+            "source": 17,
+            "target": 15
+        },
+        {
+            "source": 17,
+            "target": 14
+        },
+        {
+            "source": 17,
+            "target": 13
+        },
+        {
+            "source": 17,
+            "target": 12
+        },
+        {
+            "source": 11,
+            "target": 10
+        },
+        {
+            "source": 11,
+            "target": 9
+        },
+        {
+            "source": 11,
+            "target": 8
+        },
+        {
+            "source": 11,
+            "target": 7
+        },
+        {
+            "source": 11,
+            "target": 6
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 1
+        },
+        {
+            "source": 5,
+            "target": 0
+        }
+    ]
+}
